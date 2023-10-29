@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/hello/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/modules/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/modules/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
