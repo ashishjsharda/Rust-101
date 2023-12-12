@@ -7,11 +7,17 @@
       <sourceFolder url="file://$MODULE_DIR$/src/functions/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/modules/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/cfgex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/crateex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/attributes/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/modules/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/cfgex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/crateex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/attributes/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
